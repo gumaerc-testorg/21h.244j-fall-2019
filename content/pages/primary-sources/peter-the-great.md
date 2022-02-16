@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Primary Sources
+parent_type: CourseSection
 parent_uid: 9c6774c1-76f8-237c-ab55-f001fbeee510
 title: Peter the Great
 uid: aaf2a868-8a23-d173-3d7a-f07b31fd3fb9

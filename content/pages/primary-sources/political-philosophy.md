@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Primary Sources
+parent_type: CourseSection
 parent_uid: 9c6774c1-76f8-237c-ab55-f001fbeee510
 title: Political Philosophy
 uid: f566e24c-9f45-c6f6-2c1d-dac6f1634c82

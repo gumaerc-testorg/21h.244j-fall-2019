@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Primary Sources
+parent_type: CourseSection
 parent_uid: 9c6774c1-76f8-237c-ab55-f001fbeee510
 title: Women's Letters and Memoirs (and Other Writings)
 uid: 3f3e513f-5307-0988-bc64-daf8ccc89b0d

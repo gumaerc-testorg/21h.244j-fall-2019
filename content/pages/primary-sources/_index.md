@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Primary Sources
 uid: 9c6774c1-76f8-237c-ab55-f001fbeee510
 ---

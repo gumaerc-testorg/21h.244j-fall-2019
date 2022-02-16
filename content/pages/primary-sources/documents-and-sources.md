@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Primary Sources
+parent_type: CourseSection
 parent_uid: 9c6774c1-76f8-237c-ab55-f001fbeee510
 title: Collections of Documents and Sources (18th Century)
 uid: de37ef0c-6387-2491-bf84-7d95cc732e0b

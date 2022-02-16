@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Primary Sources
+parent_type: CourseSection
 parent_uid: 9c6774c1-76f8-237c-ab55-f001fbeee510
 title: Russia's Imperial Presence
 uid: 1db6d4e2-c130-bc25-f032-a98acfaa7273
