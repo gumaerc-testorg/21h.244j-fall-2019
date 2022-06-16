@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes websites with rich collections of documents related
+  to Russia.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
