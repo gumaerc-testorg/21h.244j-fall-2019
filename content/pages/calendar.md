@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the course topics and key due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 92921548-1ff2-3f89-50fc-b1f2ccf6b03d
 ---
@@ -90,7 +93,7 @@ Geography and Historical Background
 {{< tdopen >}}
 
 
-Begin reading the lists of [primary sources]({{< baseurl >}}/pages/primary-sources). Think about what you might want to write about. 
+Begin reading the lists of {{% resource_link 9c6774c1-76f8-237c-ab55-f001fbeee510 "primary sources" %}}. Think about what you might want to write about. 
 
 
 {{< tdclose >}}

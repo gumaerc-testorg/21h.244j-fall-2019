@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section includes possible primary sources for the final research
+  paper.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Primary Sources
+parent_type: CourseSection
 parent_uid: 9c6774c1-76f8-237c-ab55-f001fbeee510
 title: Peasants and the Countryside
 uid: bb40c0bd-de8b-b795-4150-d140955ab32c

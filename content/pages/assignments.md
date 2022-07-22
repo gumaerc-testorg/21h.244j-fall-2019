@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 67681be5-308d-024f-ff64-2dd372c480dc
 ---
@@ -7,14 +11,14 @@ uid: 67681be5-308d-024f-ff64-2dd372c480dc
 Forum Posts
 -----------
 
-Students will be asked to write five weekly short papers of approximately 1–2 pages responding to the readings. Details and due dates for these posts can be found in the table of the [Calendar]({{< baseurl >}}/pages/calendar) section.
+Students will be asked to write five weekly short papers of approximately 1–2 pages responding to the readings. Details and due dates for these posts can be found in the table of the {{% resource_link 92921548-1ff2-3f89-50fc-b1f2ccf6b03d "Calendar" %}} section.
 
 The forum posts are worth 25% of the final course grade.
 
 Research Paper
 --------------
 
-The major long-term project for this course is a research paper (10–15 pp.) based on a [primary source]({{< baseurl >}}/pages/primary-sources). This assignment will be approached in segments, with a review of a book-length primary source (must be approved by professor), followed by a prospectus, bibliography, and working hypothesis, culminating in an analytical paper that uses the source to construct historical interpretation.
+The major long-term project for this course is a research paper (10–15 pp.) based on a {{% resource_link 9c6774c1-76f8-237c-ab55-f001fbeee510 "primary source" %}}. This assignment will be approached in segments, with a review of a book-length primary source (must be approved by professor), followed by a prospectus, bibliography, and working hypothesis, culminating in an analytical paper that uses the source to construct historical interpretation.
 
 These segments are detailed in the table below.
 

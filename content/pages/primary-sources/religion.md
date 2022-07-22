@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section includes possible primary sources for the final research
+  paper.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Primary Sources
+parent_type: CourseSection
 parent_uid: 9c6774c1-76f8-237c-ab55-f001fbeee510
 title: Religion
 uid: b728cc57-61d5-c79b-cb24-4c4119ea57e6

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes general information about the course including
+  the course meeting times, a course description, required books, and the grading
+  policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 71299574-6770-10f0-e5f3-184bd49a002a
 ---
@@ -28,7 +33,7 @@ Gogol, Nikolai. _The Overcoat & Other Short Stories (Dover Thrift Editions)_. Do
 
 Kivelson, Valerie A., and Ronald Grigor Suny. _Russia’s Empires_. Oxford University Press, 2016. ISBN: 9780199924394. 
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link 9e42d62b-aac8-5921-1b61-3c436350ea9f "Readings" %}} section.
 
 Grading Policy
 --------------
@@ -106,4 +111,4 @@ _Students will write one 10-page analysis of a primary source that will examine 
 
 {{< tableclose >}}
 
-For more information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information, see the {{% resource_link 67681be5-308d-024f-ff64-2dd372c480dc "Assignments" %}} section.
