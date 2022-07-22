@@ -5,6 +5,7 @@ file: /courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
