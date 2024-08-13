@@ -98,7 +98,7 @@ Muscovy
 
 Hellie, Richard. “[Law Code of 1649 (from *the Encyclopedia of Russian History, Vol. 2*)](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/law-code-1649).” Encyclopedia.com.
 
-{{% resource_link 594f33f9-fa11-e522-94bc-cba745221a36 "Key Terms in Russian History-The Longue Duree (PDF)" %}}
+{{% resource_link "594f33f9-fa11-e522-94bc-cba745221a36" "Key Terms in Russian History-The Longue Duree (PDF)" %}}
 
 *A glossary of key concepts for the early part of the course.*
 
@@ -370,7 +370,7 @@ The Constitutional Monarchy and World War I
 
 *Optional*
 
-Karlin, Anatoly. “[Prophets of the Great War: Friedrich Engels, Ivan Bloch, and Pyotr Durnovo](https://akarlin.com/2010/05/great-war-prophets/).” May 5, 2010. 
+Karlin, Anatoly. “[Prophets of the Great War: Friedrich Engels, Ivan Bloch, and Pyotr Durnovo](https://akarlin.com/great-war-prophets/).” May 5, 2010. 
 
 *Anatoly Karlin, the author, is not a professional historian but he's done a nice job giving some quotes from three famous prophets of World War I.*
 
