@@ -10,20 +10,20 @@ uid: 60db2407-3329-4f13-cfc9-94c0d0bf75f1
 ---
 ## Websites with Rich Collections of Documents 
 
-[Modern History Sourcebook: War, Conflict, & Progress](https://sourcebooks.fordham.edu/mod/modsbook4.asp), Fordham University.
+{{% resource_link "eda4b73b-8e94-4140-9f28-01b22dcf4d6d" "Modern History Sourcebook: War, Conflict, & Progress" %}}, Fordham University.
 
-[Euro Docs: History of Russia, Primary Documents](https://eudocs.lib.byu.edu/index.php/History_of_Russia:_Primary_Documents), Harold B. Lee Library, Brigham Young University.
+{{% resource_link "39c3fae6-396f-4378-a7de-5ef750ba2faf" "Euro Docs: History of Russia, Primary Documents" %}}, Harold B. Lee Library, Brigham Young University.
 
-[Russian History](https://www.departments.bucknell.edu/russian/Site-prior-to-Easyweb-migration/history.html), Bucknell University.
+{{% resource_link "fcf4af02-a538-4cd9-b662-88731b50c895" "Russian History" %}}, Bucknell University.
 
-[REESWeb](https://www.ucis.pitt.edu/reesweb/), the University of Pittsburgh. *(The main U.S. hub for links to Russian and East European online resources.)*
+{{% resource_link "3bb535b6-bd14-47c8-ab06-abb9a27a1846" "REESWeb" %}}, the University of Pittsburgh. *(The main U.S. hub for links to Russian and East European online resources.)*
 
-[Alexander Palace Time Machine](http://www.alexanderpalace.org/palace/mainpage.html). *(Documents, text, and images of the Romanovs.)*
+{{% resource_link "a0c910a9-e6cd-4c4f-860f-0667c53fa623" "Alexander Palace Time Machine" %}}. *(Documents, text, and images of the Romanovs.)*
 
-[The Empire That Was Russia: The Prokudin-Gorskii Photographic Record Recreated](https://www.loc.gov/exhibits/empire/), the Library of Congress. *(An exhibit of Prukudin-Gorskii's early color photographs of Imperial Russia.)*
+{{% resource_link "86319e92-fc79-432d-b397-637cae897842" "The Empire That Was Russia: The Prokudin-Gorskii Photographic Record Recreated" %}}, the Library of Congress. *(An exhibit of Prukudin-Gorskii's early color photographs of Imperial Russia.)*
 
-[Russian Revolution Documents](https://alphahistory.com/russianrevolution/russian-revolution-documents/), Alpha History. *(Documents on late tsarism and the Russian Revolution.)*
+{{% resource_link "7eeea7c4-85b3-4805-a6cc-b0543d9c0951" "Russian Revolution Documents" %}}, Alpha History. *(Documents on late tsarism and the Russian Revolution.)*
 
-[Khazaria.com: The American Center of Khazar Studies](http://www.khazaria.com/). *(Resources for Turkic and Jewish history in Russia and Ukraine.)*
+{{% resource_link "32974300-1bc1-4aa7-a7a6-474330974d49" "Khazaria.com: The American Center of Khazar Studies" %}}. *(Resources for Turkic and Jewish history in Russia and Ukraine.)*
 
-[Today in Russian History](http://www-personal.umich.edu/~sssulliv/russianlinks.html), the University of Michigan. *(A portal to other sites.)*
+{{% resource_link "c87ea472-0619-4f8f-abc9-e1ae24b43e7d" "Today in Russian History" %}}, the University of Michigan. *(A portal to other sites.)*
