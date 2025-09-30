@@ -27,9 +27,9 @@ At the beginning of the eighteenth century, Russia began to come into its own as
 Required Books
 --------------
 
-Antonova, Katherine Pickering. _An Ordinary Marriage: The World of a Gentry Family in Provincial Russia_. Oxford University Press, 2017. ISBN: 9780190616748. \[Preview with [Google Books](https://www.google.com/books/edition/An_Ordinary_Marriage/53yuDQAAQBAJ?hl=en&gbpv=1)\]
+Antonova, Katherine Pickering. _An Ordinary Marriage: The World of a Gentry Family in Provincial Russia_. Oxford University Press, 2017. ISBN: 9780190616748. \[Preview with {{% resource_link "3b270b5f-05f4-4ca0-8b35-87e9e8c1fb0b" "Google Books" %}}\]
 
-Gogol, Nikolai. _The Overcoat & Other Short Stories (Dover Thrift Editions)_. Dover Publications,1992. ISBN: 9780486270579. \[Preview with [Google Books](https://www.google.com/books/edition/The_Overcoat_and_Other_Short_Stories/-bLCAgAAQBAJ?hl=en&gbpv=1)\]
+Gogol, Nikolai. _The Overcoat & Other Short Stories (Dover Thrift Editions)_. Dover Publications,1992. ISBN: 9780486270579. \[Preview with {{% resource_link "309fde17-3fbc-419d-a1da-c64dc3540479" "Google Books" %}}\]
 
 Kivelson, Valerie A., and Ronald Grigor Suny. _Russia’s Empires_. Oxford University Press, 2016. ISBN: 9780199924394. 
 

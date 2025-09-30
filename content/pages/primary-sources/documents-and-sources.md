@@ -21,6 +21,6 @@ Raeff, Marc, ed. _Plans for Political Reform in Imperial Russia, 1730–1905_. P
 
  — — —. _Russian Intellectual History: An Anthology_. Humanities Press and Harvester Press, 1978. ISBN: 9780391009042. 
 
-Richardson, William. _[Anecdotes of the Russian Empire: In a Series of Letters, Written, a Few Years Ago, from St. Petersburg](https://www.google.com/books/edition/Anecdotes_of_the_Russian_Empire/sccGAAAAQAAJ?hl=en&gbpv=1)_. W. Strahan, and T. Cadell, 1784.
+Richardson, William. _{{% resource_link "199c7a5e-cabe-4811-bf45-bd331f2687a1" "Anecdotes of the Russian Empire: In a Series of Letters, Written, a Few Years Ago, from St. Petersburg" %}}_. W. Strahan, and T. Cadell, 1784.
 
 Segel, Harold E. _The Literature of Eighteenth-Century Russia: A History and Anthology, Volume I and Volume II_. E.P. Dutton, 1967.
