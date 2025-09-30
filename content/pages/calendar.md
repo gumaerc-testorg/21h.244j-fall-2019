@@ -63,7 +63,7 @@ Visualizing Russia and Thinking about Empire
 
 _Forum post due:_
 
-Look at the [Prokudin-Gorsky](https://www.loc.gov/exhibits/empire/index.html) photos, and skim the [article](https://www.rbth.com/special_projects/discovering_russia_1/2017/03/17/solovetsky-transfiguration-monastery-from-prokudin-gorsky-to-the-present_721751) on the Solovetsky Transfiguration Monastery. You may write about both empire and photos in your response paper, or choose to comment on one or the other.  
+Look at the {{% resource_link "88297dd8-1b2b-42a1-b415-c698db13e0ea" "Prokudin-Gorsky" %}} photos, and skim the {{% resource_link "77e34995-5136-4c5b-a326-2864f9ee486f" "article" %}} on the Solovetsky Transfiguration Monastery. You may write about both empire and photos in your response paper, or choose to comment on one or the other.  
 
 Questions to consider:
 
@@ -112,7 +112,7 @@ Begin reading the lists of {{% resource_link 9c6774c1-76f8-237c-ab55-f001fbeee51
 
 Muscovy
 
-Guest: [Ece Turnator](https://libguides.mit.edu/profiles/turnator), MIT Humanities and Digital Scholarship Librarian
+Guest: {{% resource_link "932b82d7-e6c3-4c2c-ab93-1452701a3298" "Ece Turnator" %}}, MIT Humanities and Digital Scholarship Librarian
 
 _(This week Ece and the instructor will hold required individual meetings to discuss your possible research topics.)_
 
@@ -287,11 +287,11 @@ Bureaucracy in Literature
 
 _Viewing:_
 
-_[Shinel (The Overcoat)](https://www.imdb.com/title/tt0017378/?ref_=fn_al_tt_3)_. Directed by Grigoriy Kozintsev and Leonid Trauberg. Black and White, 84 min. 1926.
+_{{% resource_link "36d10327-2ec6-47e0-8737-a4030fac096e" "Shinel (The Overcoat)" %}}_. Directed by Grigoriy Kozintsev and Leonid Trauberg. Black and White, 84 min. 1926.
 
 _Event:_
 
-“[Focus on Russia: The Lands in Between: Russia vs. The West and the New Politics of Hybrid War](https://calendar.mit.edu/event/focus_on_russia_hybrid_war#.X1je2XlKjIU)” with Professor Mitchell A. Orenstein
+“{{% resource_link "5cadd15f-b9fe-44d2-bbcb-d5b21f31fb94" "Focus on Russia: The Lands in Between: Russia vs. The West and the New Politics of Hybrid War" %}}” with Professor Mitchell A. Orenstein
 
 
 {{< tdclose >}}
@@ -363,7 +363,7 @@ Alexander II and the Great Reforms
 
 _Event:_
 
-“[Starr Forum: The Kremlin’s Global Outreach: From Cyber to Russians Abroad](https://calendar.mit.edu/event/KremlinsGlobalOutreach#.X1jhOnlKjIU)” with Andrei Soldatov and Irina Borogan
+“{{% resource_link "f33512d6-c65c-41e9-bab1-f830555d5e9a" "Starr Forum: The Kremlin’s Global Outreach: From Cyber to Russians Abroad" %}}” with Andrei Soldatov and Irina Borogan
 
 
 {{< tdclose >}}
@@ -471,7 +471,7 @@ The 1905 Revolution
 
 _Viewing:_
 
-Excerpt from _[Battleship Potemkin](https://www.imdb.com/title/tt0015648/?ref_=fn_al_tt_1)_. Directed by Sergei M. Eisenstein, Black and White, 66 min. 1925.
+Excerpt from _{{% resource_link "980e3df8-96eb-44d1-a172-f6550aaed58b" "Battleship Potemkin" %}}_. Directed by Sergei M. Eisenstein, Black and White, 66 min. 1925.
 
 
 {{< tdclose >}}
